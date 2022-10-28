@@ -1,0 +1,21 @@
+.banner{
+    background-color: #F8C659;
+    height: 120px;
+}
+.banner h1{
+    line-height: 70px;
+}
+.content_ab{
+    padding-top: 50px;
+    height: 600px;
+}
+.content_ab h3{
+    color: #02246B;
+}
+.content_ab p{
+    padding-bottom: 70px;
+}
+
+
+
+/* .contact */
